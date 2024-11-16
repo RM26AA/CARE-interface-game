@@ -1,4 +1,4 @@
-PROJECT TITLE:
+## PROJECT TITLE:
 Championships at Rare Earth (CARE) Game
 
 PURPOSE OF PROJECT:
